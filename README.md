@@ -1,9 +1,7 @@
 # Hi there 👋
 
-I like to talk about discovering where technology connects to profit. Connect with me here -
-
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
+I like to talk about discovering where technology connects to profit. 
+Especially, To make recommender systems and upgrade it.
 
 - 🏢 I'm currently studying at **Hanyang University**
 - 🚀 I use daily:
