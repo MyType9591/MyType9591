@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome! 👋
 
 I like to talk about discovering where technology connects to profit. 
 Especially, To make recommender systems and upgrade it.
